@@ -1,0 +1,33 @@
+Your products:
+
+3 | FERRARI - SOLD | 4500.0 | 0
+4 | LAMBORGINI - SOLD | 4500.0 | 0
+7 | TESLA - SOLD | 4500.0 | 0
+3 | FERRARI - SOLD | 4500.0 | 0
+4 | LAMBORGINI - SOLD | 4500.0 | 0
+7 | TESLA - SOLD | 4500.0 | 0
+0 | BMW | 4500.0 | 5
+1 | HONDA | 4500.0 | 5
+2 | XTRAIL | 4500.0 | 5
+5 | TOYOTA | 4500.0 | 5
+6 | SUZUKI | 4500.0 | 5
+0 | BMW | 4500.0 | 5
+1 | HONDA | 4500.0 | 5
+2 | XTRAIL | 4500.0 | 5
+5 | TOYOTA | 4500.0 | 5
+6 | SUZUKI | 4500.0 | 5
+
+Your purchase - 180000.0
+
+Your benefit - 575000.0
+
+You earned - 395000.0
+
+Products that have been fully sold
+
+3 | FERRARI - SOLD | 4500.0 | 0
+4 | LAMBORGINI - SOLD | 4500.0 | 0
+7 | TESLA - SOLD | 4500.0 | 0
+3 | FERRARI - SOLD | 4500.0 | 0
+4 | LAMBORGINI - SOLD | 4500.0 | 0
+7 | TESLA - SOLD | 4500.0 | 0
